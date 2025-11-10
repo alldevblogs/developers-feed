@@ -60,13 +60,14 @@ Stay connected with the latest developer articles even when you're not on our we
 
 AllDevBlogs offers browser extensions for:
 
-- **Firefox** - Available on Firefox Add-ons
-- **Chrome** - Coming soon to Chrome Web Store
-- **Edge** - Coming soon to Microsoft Edge Add-ons
-- **Opera** - Coming soon to Opera Add-ons
+- **Chrome** - [Download ZIP](https://www.alldevblogs.com/alldevblogs-extension.zip) (Coming soon to Chrome Web Store)
+- **Firefox** - [Download ZIP](https://www.alldevblogs.com/alldevblogs-extension-firefox.zip) (Coming soon to Firefox Add-ons)
+- **Edge** - [Download ZIP](https://www.alldevblogs.com/alldevblogs-extension.zip) (Coming soon to Microsoft Edge Add-ons)
+- **Opera** - [Download ZIP](https://www.alldevblogs.com/alldevblogs-extension-opera.zip) (popup only extension - no new tab, Coming soon to Opera Add-ons)
 
 The extensions provide:
-- New tab feed with latest articles
+- Popup feed with latest articles (all browsers)
+- New tab feed with latest articles (Chrome, Edge, Firefox)
 - Quick search functionality
 - Smart notifications
 - Personalized content based on your preferences
